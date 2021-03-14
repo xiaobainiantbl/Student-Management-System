@@ -1,0 +1,557 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1615727044504)
++++ .idea/vcs.xml	(date 1615727044504)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1615718441203)
++++ .idea/misc.xml	(date 1615718441203)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JavaScriptSettings">
++    <option name="languageLevel" value="ES6" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="15" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+--- .idea/.gitignore	(date 1615718444651)
++++ .idea/.gitignore	(date 1615718444651)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1615718441296)
++++ .idea/modules.xml	(date 1615718441296)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/学生管理系统.iml" filepath="$PROJECT_DIR$/学生管理系统.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/encodings.xml	(date 1615721569271)
++++ .idea/encodings.xml	(date 1615721569271)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/StudentSystem.java" charset="GBK" />
++  </component>
++</project>
+\ No newline at end of file
+Index: out/production/学生管理系统/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/学生管理系统/.idea/misc.xml	(date 1615718441203)
++++ out/production/学生管理系统/.idea/misc.xml	(date 1615718441203)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JavaScriptSettings">
++    <option name="languageLevel" value="ES6" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="15" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: out/production/学生管理系统/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/学生管理系统/.idea/encodings.xml	(date 1615721569271)
++++ out/production/学生管理系统/.idea/encodings.xml	(date 1615721569271)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/StudentSystem.java" charset="GBK" />
++  </component>
++</project>
+\ No newline at end of file
+Index: out/production/学生管理系统/学生管理系统.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/学生管理系统/学生管理系统.iml	(date 1615718441145)
++++ out/production/学生管理系统/学生管理系统.iml	(date 1615718441145)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: out/production/学生管理系统/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/学生管理系统/.idea/vcs.xml	(date 1615718441260)
++++ out/production/学生管理系统/.idea/vcs.xml	(date 1615718441260)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: out/production/学生管理系统/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/学生管理系统/.idea/modules.xml	(date 1615718441296)
++++ out/production/学生管理系统/.idea/modules.xml	(date 1615718441296)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/学生管理系统.iml" filepath="$PROJECT_DIR$/学生管理系统.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: out/production/学生管理系统/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+--- out/production/学生管理系统/.idea/.gitignore	(date 1615718444651)
++++ out/production/学生管理系统/.idea/.gitignore	(date 1615718444651)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: Students.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+--- Students.java	(date 1614663856047)
++++ Students.java	(date 1614663856047)
+@@ -0,0 +1,45 @@
++public class Students{
++	//封装
++	private  int Id;
++	  private String Name;
++	 private String Number;
++	private int Age;
++	 public Students(){
++		 
++	 }
++	public  Students (int Id,String Name,String Number,int Age){
++		this.Id=Id;
++		this.Name=Name;
++		this.Number=Number;
++		this.Age=Age;
++	}
++	//修改Id
++	public void  setId(int Id){
++		this.Id=Id;
++	}
++	public  void  setAge(int Age){
++		this.Age=Age;
++	}
++	public void   setName(String Name){
++		this.Name=Name;
++	}
++	public void  setNumber(String Number){
++		this.Number=Number;
++	}
++	//获取Id
++	public  int   getId(){
++		return Id;
++	}
++	public  int   getAge(){
++		return Age;
++	}
++	public  String   getName(){
++		return Name;
++	}
++	public  String    getNumber(){
++		return Number;
++	}
++	public String toString() {
++		return "[-----学号: "+Id+" ,名字: "+Name+" ,班级: "+Number+" ,年龄: "+Age+"-----]";
++	}
++}
+\ No newline at end of file
+Index: StudentSystem.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+--- StudentSystem.java	(date 1614858921788)
++++ StudentSystem.java	(date 1614858921788)
+@@ -0,0 +1,163 @@
++import java.util.Scanner;
++/*
++学生管理系统
++*/
++class StudentSystem{
++		//学生的人数
++		static int count=2;
++		//判断循环
++		static boolean nuc=true;
++		//创建学生数组
++		static Students [] arr=new Students[5];
++	public static void main(String args[]){
++		//赋初值
++		Students s=new Students(100,"zhangsan","2013-11-1",23);
++		Students s1=new Students(101,"李四","2013-11-1",23);
++		arr[0]=s;
++		arr[1]=s1;
++		//循环程序
++		while(nuc){
++			Scanner scan=new Scanner(System.in);
++			System.out.println("==============================请根据提示输入相关数子，执行操作=================================");
++			System.out.println("输入数字1,退出程序;");
++			System.out.println();
++			System.out.println("输入数字2,增加学生信息");
++			System.out.println();
++			System.out.println("输入数字3，删除学生信息");
++			System.out.println();
++			System.out.println("输入数字4，修改学生信息");
++			System.out.println();
++			System.out.println("输入数字5，查询学生信息");
++			switch(scan.nextInt()){
++				case 1:
++						nuc=false;
++						System.out.println("退出程序成功！");
++						break;
++				case 2:
++						addStudent();
++						System.out.println("操作成功！");	
++						System.out.println();
++						break;
++				case 3:
++						deleteStudent();
++						System.out.println("操作成功！");
++						System.out.println();
++						break;
++				case 4:
++						setStudent();
++						System.out.println("操作成功！");
++						System.out.println();
++						break;
++				case 5:
++						selectStudent();
++						System.out.println("操作成功！");
++						System.out.println();
++						break;
++				 default:
++						System.out.println("请按照提示输入指令");
++						System.out.println();
++						break;
++			}
++		}
++		/*arr[0]=s;
++		arr[1]=s1;
++		SetStudent();
++		SelectStudent(arr);*/
++		
++		
++		
++		
++			
++	}
++	//增加学生信息
++	public static void   addStudent(){
++		//创建新的数组接收
++		//Students [] Narr=new Students[(StudentSystem.arr.length)+1];
++		//获取新增加的学生信息
++		Scanner scan=new Scanner(System.in);
++		System.out.println("请输入新增的学生的学号，按回车键结束");
++		int id=scan.nextInt();
++		//获取学生名字
++		System.out.println("请输入新增学生的名字，按回车键结束：");
++		String name=scan.next();
++		//获取学生班级
++		System.out.println("请输入新增学生的班级，按回车键结束：");
++		String number=scan.next();
++		//获取学生年龄
++		System.out.println("请输入新增学生的年龄，按回车键结束：");
++		int age=scan.nextInt();		
++		arr[count]=new Students(id,name,number,age);
++		//数组元素+1
++		count++;
++		//复制数组
++		/*
++		for (Students x:arr){
++			int i=0;
++			Narr[i]=x;
++			i++;
++		}
++		StudentSystem.arr=null;*/
++		
++	}
++	//删除学生信息
++	public static  void deleteStudent(){
++		Scanner scan=new Scanner(System.in);
++		System.out.println("请输入想要删除的学生的学号");
++		int n=scan.nextInt();
++		//将要删除的元素覆盖
++		for(int i=0;i<count;i++){
++			if(arr[i].getId()==n){
++				for (int j=i;i<count ;j++){
++					if(arr[j]!=null){
++						arr[j]=arr[j+1];
++					}
++					
++					else{
++						count--;
++						break;
++					}
++				}
++				
++			}
++			
++			
++			
++		}
++	}
++	//更改学生信息
++	public static void setStudent(){
++		Scanner scan=new Scanner(System.in);
++		System.out.println("请输入想要修改的学生的学号");
++		int x=scan.nextInt();
++		for (int i=0;i<count;i++){
++			//获取相应元素
++			if(arr[i].getId()==x){
++				System.out.println("请输入新学号");
++				arr[i].setId(scan.nextInt());
++					System.out.println("请输入新姓名");
++				arr[i].setName(scan.next());
++					System.out.println("请输入新班级");
++				arr[i].setNumber(scan.next());
++					System.out.println("请输入新年龄");
++				arr[i].setAge(scan.nextInt());
++			}
++		}
++	}
++	//查询学生信息
++	public static  void selectStudent(){
++		for(Students x: StudentSystem.arr ){
++			if(x==null)break;
++			System.out.println(x.toString());
++			System.out.println();
++		}
++	}
++	//更新
++	public static void UpdateStudent(){
++		
++	}
++	//判断是否
++	
++
++	
++	
++}
+\ No newline at end of file
+Index: 学生管理系统.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 学生管理系统.iml	(date 1615718441145)
++++ 学生管理系统.iml	(date 1615718441145)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+diff --git out/production/学生管理系统/StudentSystem.class out/production/学生管理系统/StudentSystem.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf29b2acefd200300ba662d0a73f78fde83707fc
+GIT binary patch
+literal 3629
+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
+Mg(wLO8k=+I|9KlK-~a#s
+
+diff --git out/production/学生管理系统/Students.class out/production/学生管理系统/Students.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..11a8f7b84dbf3bde7108964892abf17add0e0dd8
+GIT binary patch
+literal 1858
+zc$|%uOHUI~6vzL!@0Kagwmjt}Xj>jtK~z9|kPw?xTtIL^Tnz1`43rttnUb(`;nv_z
+zKY?x}(S(M`f)C*LAjB_WJonC&lIhgYq;t=l{?G56bI-l$@4si~02c5p0uQ`F_$2rd
+zU})cw59CZq){2=oTRTeLWC$#(nrbdFc$2A(FhU3i5s}aWi6OLRRtkz{8VsInfq`YY
+zpjAQ}+8KPS@}9!bnX5zB%(AK#7r3fZLKjyBRx5j3N}0Rj5)vHieNj|8slFZwz35};
+z-jjEgWnIh5=3CX=Cd)8ok##<qZKOAPvZ+QN)wiq{sJ^zGswq|x>+)7fRIKOa(uQ1C
+z`Md4(ncFI5jO1!P6Crie^cxI*LoxXt`I6!_K(Ev$Ly!z>qvFZNP%aH~g{Y4xMT<hi
+z$P%PjgA{9!SkkrEaIww^nY!htZr1clIj^j!yu)a%vuO^X!|+nqO~Wk9`>z#qTQ3-G
+z0X&Fc2D3pt<fEBm7^~+}wF7-uu~S;pT9NanUOr^_a=kTMXhC1eTA`#EV>w;lt?avO
+zUbDdU!+pg?zL|3#;e}KqVp%Sg)>Knj2;niq+~ySjTpWMBI69plX2X*gpFUn3e-`HD
+z(edTkH_Q9$<j?sBGKKsdgOt@YrMz5{4MQ=4pnV>{QJX<LWf=Uwl%{KmF+x|vL)XDa
+zPr7zwdH4krYnQzyguexh-(!0A)7uQKj8=d86zr#v4bU?pV07mZ#x1fWON2oT(aHhC
+zHsC!e{j~ORK)Sz*V0yBOXnLxOj&$5tMXXNkqqLmuqawn@Y(<ocYo$}tCbG<0Bs&YY
+zTI|eyq8X2{cspKU@rHc#`v^wuYL-aDRRK|nv!71lcZp01OLdhgU}s{u?aqohS#e?|
+zny?Z!YYgKJtO?p2C##28y-irWZ_c{o&gyWo`iV8rgw<uU?jmWkGFRh2LGb$(Dj=Lg
+zuA@)62FIMiqprbeOt=I`e>j52U4tiGgFBqTN!Q@1tKjG2%+UVuo_Tf-;Vqn@8*tJl
+huF(=U&5LQF%HSTYA^Pn;eIMb8m;(LdV3DTO`w!^-NAdsw
+
+diff --git Students.class Students.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..01a7d31e93e7f11c736ede5dabc4164bb99f3641
+GIT binary patch
+literal 1539
+zc$|%s+fEZv6o&uZ)3jwup|s_UprCCzc|>iAi8diNsd!O>7sQL9-6;cQhIFPR+<R;A
+zPM<(;B+-P1$ORAJdo;wCFs?mQS~DFDlgwUw|M~X6);|6GeSQHTi`6hZ@JjH>@FT!5
+zu&W#@%QZ!-F2CO1<z<s0u&QdR`HaDvN^gb`L`XtdMjvE`V99J$xMms*o<fCz6$H>P
+zBZ>hA-@3BT8Dhn*Y00dsS~VxAn2aGo1=bt;+q^EMgp8!H^**oi7}Yl-V-#Zy!~4n}
+z&+A%QG2f`>4)qLEv9e}Ug<khwrI7B`sJ^^jq57glRpWLM8_IT#l=O97HyQi}H^tI@
+zDQg&@Ayv;HQO90?BGo%ppdmq6Y00H(yU-pN$fSB@QoS;Xr(Bm1s&+ksrf%yD;ga5{
+zm-(71Ruj28q$OcMXZ%9fO~b4!2d}ufqgRY*0Lx+A#XSl4#g0E<nC<3LwL^W6w^Q1O
+zu%?tvy?(^->F=erLEH4DqE%|#m@Vr1UgN-J^Zqq)<LH39;9EuK&CI2HE%HjOR#Hu#
+z3*r&O%GRRzS|^`d$7k7THoegL@V<5O(du3vpIn}QvDF`^zb@WU*TUa2$OTQ~^?Xe+
+z3~oqx!Z3HOWlG30O#L6F)3ssD(2e)dE%#ANuZemd@oua*)Q(9@?*kLhliG0_%}`_%
+z{h2ec@6=(Kpf+ro(Njjq!YAAK8tHzDV*<~NHz8#fnuuf;n;6U_d`-l=9%Gb5IQb}L
+zh*I|>LZ$T6orn@Kg&S?po8&371uQ>j4Kd0$M9Q=~A9wNz;*+Gz5a;CQsZ=LFLi{Kx
+zx7_(bCqGX71SzwaYx9$xEj)$vwSxyNQ51dK6^%Plk^c@-E@<SN0~LO0S9H*c3MkV-
+vm*_NvniRDPXE8+-bB<xaId>jj`o+~*z#_#UsY~=f#EP{a43F^?IgI`Re?~I`
+
+diff --git StudentSystem.class StudentSystem.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..5fc3f0070ca3384aae2be061a997cfb71d1d0adc
+GIT binary patch
+literal 3211
+zc$|G#eNa@_75`m!Vc)I~#KkWJ67ykP5CW`9Y7i2e#*_${xN3qXsgK=PTm!oV-X<|^
+z5>bqzpmrq5s4)`8xSdY@sAK>^$$!Zt)0xh6`d4Q<)0w)v*qPSpOlLY{)7amA3;Tuf
+z!MpF>^UgW<_dDm@bK%?XC#C>AiDM3A!D53|MK*E-^7m+OYL)F;psjLq>mJ=}2;{8y
+z2mD68fW=k1-3CQK@fabW9x%EUI5>M}H`TkffC5#(?yjm{T~S?KQSE>YdD88Cfl^mP
+zW74z7=<)~JYUfHCO1CRmz$K$+k44U$v7-PBZCIpYF_sAA&MfQM+imC_#G`d}3C!Es
+zI18s%8WgHnh9Z6qguDV`hYckH3(TcLhQGbi<JAHIy~~aVvD}7-R6LAF(s<9h&+-QZ
+z7R5pOgOv?|&X7Tzy4F$aKrvQGYL5vlb=^~?bh})^rJ@vN1QQGysm@*?-C0cq<pROF
+z`(D$R$D%{mq63$r$4|u0PfSmpj2!$tc4j<sa3uQSmB_^tx3Bj{`@++o^+!(*+`RG0
+z{k`#W;Bi#iP^F?8Zh?Y(028ov%2~S%gKKWGWUkf-6ve@qFg~s>zqM~)<j_Ry*GD50
+z$7|&(HFAj@1wRs4o~r6Dj|_hrIWiQvcp)};?&g=DMSCtQcv9fuRISw{7CAh0>(u#l
+zz4aM-Yp8eg%S+M0Yw3FR8G37Fpw4|heR()lPv-M!6&vtlk`Cx^8w~-&toH^5KOy^6
+zQqjXFB1g{MzTV?tv29fGoZL1J&F7n`LIn*1^W$kq)7_+^QR?RU^mg6QXVm4FW)+)F
+zFWtJ4B7RZD7So`c23{lKf2#~S3!=X-b}*b;5YhfaHz&_4*e*~*g&E;TR~YEn>E1Zu
+z_)FyYm<&XJU*ycE(>E^M8oU&nJQ+QEPQlA_ZIgy41{lJ78s5HsS_W~4ik)~xz$$|%
+zu+UXHw{8@?cAqt3$1lbv!auZzf?fB+ckPQ?Q@uZAE1N^B3NL&D+1_ACrdTk+KNnb;
+z^mt%o`a(~<;^xLowzS<U{IX86+jOJBr{MLu=J7(DYp#Hs%9(~f;WntE6K~LMw{*)0
+zy3A(SooNt0$t*~Nkcv0u*0s@~S?kahyq%#N52e(7N5wCsu3hSeI$HHE1@C5hHiIX%
+z-&e6uLdl`_hBjS__NzD`^QsuZcoqrpnV?T+r8oKmdfew$t+kyJYlkK~=VI5+d-V*n
+zjceZ5o3u_--)469ZJj<Xu_d_7dT;y8q2urbLtS2dqhGpqrkwzfOZQmLv}W-vvp|u#
+z<(nc80Q1RX!+b&>ZV>3@TM3^+O3KC{e#aMqgB)|>LfG*E4#ic)zbLixSuzP*OTN!(
+zch1XSGKSnnbFMq{XXZ^;;k2ysaI}_lTzU%sm_%{QRXi|;N1Lx=rE}FND&%u@{5guX
+za`r^pY+c%{Hf>hNS;Z)x`VHi@-$X6Z0*~-^^WMmN2k(Go1WTpKGc*Z98^^P9_S1yB
+zFq+2ke5P#OIGQqLE5`9crfh)}c#?v<1u}$LW(bGj;+Thg%x6~e@fa4MoY`?>A?mOQ
+z&oUoP%!mg|*(D00F;9MGD#*t17W48h9-yBG@moBED?FCRNp2D=Fhx&aVI_V~|9?Ok
+z{)kohGd=$m75Ez}5k(dL$wTJfT<JepgF9F&vQQ%wJR#;`ohaa`QiwWH%wBz%2$#YB
+zKa|^G<L`HP--hD60$z8Jo5l1$m#CB>R*nquE6HSTlJvKcei@UoUQS+$Pg>0Ay*e{7
+zbN;g#wHhl6<0>>+G)3hVi>#~|R*7caH3BVJfNrQ9n=lW}jM-+!=tV|x3;Ay)&u#qv
+z68~O%8Be2y5!}fiooE{qXuly=7Ay1&wE8SsOI<Nn9mYn&DRz&dt!M~qitFRTRTP%E
+zzmh<mCGxiJa(lwalQ@0E8HT;rBEon7)SJceS~BT1$mO`3u>FL+hp^k3z79eT@LLe|
+zY->$0NFYS;0ldcVKD=ipVli^Q$1=uWi0`malsN7n`;NH>Hz#QQog3T2XKx0rJ(;xh
+z6j~ms(QZ~LWm0Vv0V(TBk+qD%kg~VZWqYOUm+7|enXFGIS=Y0~fgZBnPu2&>x|gg!
+zAnQX|OKuy`hXx!W>!WxT{fx~3-oP=IcrUeoWwOtQWtRPa(HiHyCBb_ySCZ+hB8*LC
+zQ<7%UFdi){b~jgijhrwFiIXj%C$SezjDJaDTt;8OAe{J+o9!cRrjPl@=pZ-DDRccL
+za(%lEeKPv<xfkwokIKtV;Il9a5x?ei%Cp=YM-ysQri`4jSu0j{Ams*ZBXB0I^2{vq
+Q9}T)!7&pPFNTdV*2eoC`cmMzZ
+
