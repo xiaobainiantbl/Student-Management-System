@@ -30,9 +30,9 @@ class StudentSystem{
 			System.out.println("输入数字5，查询学生信息");
 			switch(scan.nextInt()){
 				case 1:
-						nuc=false;
+						System.exit(0);
 						System.out.println("退出程序成功！");
-						break;
+
 				case 2:
 						addStudent();
 						System.out.println("操作成功！");	
@@ -59,11 +59,7 @@ class StudentSystem{
 						break;
 			}
 		}
-		/*arr[0]=s;
-		arr[1]=s1;
-		SetStudent();
-		SelectStudent(arr);*/
-		
+
 		
 		
 		
@@ -87,16 +83,7 @@ class StudentSystem{
 		System.out.println("请输入新增学生的年龄，按回车键结束：");
 		int age=scan.nextInt();		
 		arr[count]=new Students(id,name,number,age);
-		//数组元素+1
-		count++;
-		//复制数组
-		/*
-		for (Students x:arr){
-			int i=0;
-			Narr[i]=x;
-			i++;
-		}
-		StudentSystem.arr=null;*/
+
 		
 	}
 	//删除学生信息
@@ -150,10 +137,6 @@ class StudentSystem{
 			System.out.println(x.toString());
 			System.out.println();
 		}
-	}
-	//更新
-	public static void UpdateStudent(){
-		
 	}
 	//判断是否
 	
