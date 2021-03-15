@@ -4,6 +4,7 @@ public class Students{
 	  private String Name;
 	 private String Number;
 	private int Age;
+	private int newAge;
 	 public Students(){
 		 
 	 }
